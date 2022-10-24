@@ -47,6 +47,8 @@ public class RestaurantRegisterFragment extends Fragment {
             startActivity(i);
         });
 
+
+
         return view;
     }
 

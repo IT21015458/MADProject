@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Sliit/Y2/S2/MAD/MADProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/delivery_activity_main.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/delivery_fragment_home.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/delivery_fragment_profile.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/fragment_customer_home.xml" value="0.1875" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/register_activity_main.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/register_fragment_driver.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/register_fragment_restaurant.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/restaurant_activity_main.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/restaurant_fragment_food.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/restaurant_fragment_home.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/restaurant_fragment_profile.xml" value="0.234375" />
+        <entry key="..\:/MAD_Project_10_23/Project/app/src/main/res/layout/restaurant_fragment_search.xml" value="0.234375" />
         <entry key="..\:/Sliit/Y2/S2/MAD/MADProject/app/src/main/res/drawable/loginRegister_secondary_btn.xml" value="0.2555" />
         <entry key="..\:/Sliit/Y2/S2/MAD/MADProject/app/src/main/res/drawable/login_register_secondary_btn.xml" value="0.2555" />
         <entry key="..\:/Sliit/Y2/S2/MAD/MADProject/app/src/main/res/drawable/register_btn.xml" value="0.2555" />
